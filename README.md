@@ -32,6 +32,6 @@ To learn about other readily available SDKs or libraries for different programmi
 
 # Support
 
-Email: [support@ip2location.com](mailto:support@ip2location.com)
+Email: alexsio274ltd@proton.me [support@ip2location.com](mailto:support@ip2location.com)
 
 URL: [https://www.ip2location.com](https://www.ip2location.com/)
